@@ -95,13 +95,13 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>nex</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
 	      <url> http://18.233.100.171:400/repository/ebay-bts-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nex</id>
+	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://18.233.100.171:400/repository/ebay-bts-snapshot/</url>
 	    </snapshotRepository>
